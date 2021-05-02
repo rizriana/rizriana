@@ -2,10 +2,10 @@
 
 ```kotlin
 data class hi(
-  val : String = "Rizki"
-  val : String = "Bandung, Indonesia"
-  val : String = "2021 Goals: Contribute to Open Source projects"
-  val : String = "Fun fact: I love music and i can listen to it all day long 🤣"
+  val : String 🧙 = "Rizki"
+  val : String 🏰 = "Bandung, Indonesia"
+  val : String ⚽ = "2021 Goals: Contribute to Open Source projects"
+  val : String ⚡ = "Fun fact: I love music and i can listen to it all day long 🤣"
 )
 ```
 
