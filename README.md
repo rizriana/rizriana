@@ -9,10 +9,5 @@ data class hi(
 )
 ```
 
-[![rizriana github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=rizriana&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-rizriana/rizriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![rizriana github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=rizriana&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&show_icons=true&layout=compact&theme=vue&hide_border=true)]
