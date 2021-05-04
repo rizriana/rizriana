@@ -9,5 +9,5 @@ data class hi(
 )
 ```
 
-[![Rizriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Rizriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizriana)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&show_icons=true&layout=compact&theme=vue&hide_border=true)
