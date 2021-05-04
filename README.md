@@ -10,4 +10,4 @@ data class hi(
 ```
 
 ![Rizriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizriana&line_height=20&theme=vue&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&layout=compact&hide_border=true)
