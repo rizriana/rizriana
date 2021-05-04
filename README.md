@@ -9,5 +9,5 @@ data class hi(
 )
 ```
 
-![rizriana github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=rizriana&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+![rizriana github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=rizriana&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&show_icons=true&layout=compact&theme=vue&hide_border=true)
