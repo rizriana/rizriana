@@ -9,7 +9,7 @@ data class hi(
 )
 ```
 <details>
-<summary><b>Activity 💻</b></summary>
+<summary><b>GitHub Stats 🎯</b></summary>
 <br>
   
 ![Rizriana's top langs](https://github-readme-stats.vercel.app/api?username=rizriana&line_height=20&theme=vue&hide_border=true&show_icons=true)
@@ -17,7 +17,7 @@ data class hi(
 </details>
 
 <details>
-<summary><b>Get in Touch 💌</b></summary>
+<summary><b>Most Used Languages 🧭</b></summary>
 <br>
 
 ![Rizriana's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizriana&layout=compact&hide_border=true)
